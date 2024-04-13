@@ -1,1 +1,2 @@
-Building with react frontend, node js backend, and MYSQL DB as of right now
+# The Best Daily Game For Sports Fans!
+Make your daily sports pick for free at [playbetl.com](playbetl.com)! Share with your friends!
